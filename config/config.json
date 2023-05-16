@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "sc_web",
+    "password": "sc_web",
+    "database": "kursach",
+    "dialect": "postgres",
+    "host": "forshielders.ru",
+    "port": 5432
+  }
+}
